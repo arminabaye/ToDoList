@@ -30,8 +30,8 @@ The following **nice to have** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifyu.com/image/gAgv' title='Adding item' width='' alt='Adding item' />
+<a href="https://gifyu.com/image/gAgv"><img src="https://s8.gifyu.com/images/adding-an-item.md.gif" alt="adding-an-item.gif" border="0" /></a>
 
-<img src='https://gifyu.com/image/gAgm' title='Removing item' width='' alt='Removing item' />
+<a href="https://gifyu.com/image/gAgm"><img src="https://s8.gifyu.com/images/Removing-an-item.md.gif" alt="Removing-an-item.gif" border="0" /></a>
 
-<img src='https://gifyu.com/image/gAg7' title='Editing item' width='' alt='Editing item' />
+<a href="https://gifyu.com/image/gAg7"><img src="https://s8.gifyu.com/images/AddingEditing.md.gif" alt="AddingEditing.gif" border="0" /></a>
